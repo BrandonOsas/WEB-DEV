@@ -1,0 +1,6 @@
+[10-Feb-2016 20:59:18 Europe/Berlin] PHP Warning:  file_get_contents(lang.tmp): failed to open stream: No such file or directory in F:\xampp\htdocs\xampp\index.php on line 2
+[16-Feb-2016 20:58:29 Europe/Berlin] PHP Warning:  file_get_contents(lang.tmp): failed to open stream: No such file or directory in F:\xampp\htdocs\xampp\index.php on line 2
+[24-Feb-2016 15:18:40 Europe/Berlin] PHP Notice:  Undefined index: HTTP_HOST in E:\xampp\htdocs\index.php on line 7
+[24-Feb-2016 18:47:38 Europe/Berlin] PHP Notice:  Undefined index: HTTP_HOST in F:\xampp\htdocs\index.php on line 7
+[25-Feb-2016 14:32:23 Europe/Berlin] PHP Notice:  Undefined index: HTTP_HOST in E:\xampp\htdocs\index.php on line 7
+[05-Mar-2016 23:57:24 Europe/Berlin] PHP Notice:  Undefined index: HTTP_HOST in F:\xampp\htdocs\index.php on line 7

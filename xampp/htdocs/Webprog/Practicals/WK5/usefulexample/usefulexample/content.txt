@@ -1,0 +1,5 @@
+Module code, Module name, Assignment marks, Exam marks
+ABC123, Web programming, 30, 70
+DEF456, CaNS, 50, 50
+GHI789, OOSD, 50, 50
+JKL012, PoC, 40, 60

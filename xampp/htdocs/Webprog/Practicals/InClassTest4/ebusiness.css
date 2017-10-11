@@ -1,0 +1,31 @@
+body{
+background-color:brown;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+.class{
+padding: 10px;
+  border-style: solid;
+    border-width: 5px;
+	}
+#id{
+padding: 100px;
+  border: 5px solid green;
+  font-family: "Times New Roman", Times, serif;
+;
+
+}
+.random{
+ border: 5px solid blue;}
+ 
+ .html{
+ text-align: center;}

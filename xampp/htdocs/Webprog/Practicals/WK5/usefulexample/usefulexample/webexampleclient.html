@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Web Client Server Example - HTML Client </title>
+    </head>
+    <body>
+        
+        <H1>Web Technologies ICT2 Preferences </H1>
+        <p>Please register your interest or preference for In-Class Test 2</p>
+        
+        <Form action="webexampleserver-v2.py" method="post">
+            <H2>ICT2 Registration</H2>
+            <p>Name : <input type="text" name="name"> </p>
+            <p>Email :<input type="text" name="email"></p>
+            <br /> <H3>Web Technologies ICT2 Preferences (select one):</H3> <input type="hidden" name="hide">
+                
+            <input type="radio" name="webtech" value="HTML css"> HTML and CSS <br/>
+            <input type="radio" name="webtech" value="Python program" checked> HTML and Python CGI <br/>
+            <input type="radio" name="webtech" value="Java script"> JavaScript and HTML <br/>
+            <input type="radio" name="webtech" value="None"> Need more practice - will try in ICT3 <br/>
+                
+            <p>Submit button:</p>
+            <input type=submit value="Register">
+                
+        </Form>
+        
+    </body>
+</html>
+

@@ -1,0 +1,5 @@
+David	d@d.d	Java script
+Adam	adam@adam.adam	HTML css
+
+Zaheer	zaheer@zaheer.com	Python program
+Zaheer	zaheer@abc.com	Python
